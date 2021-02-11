@@ -1,0 +1,6 @@
+1.- Descomprimir el archivo en la ruta /var/www/html/
+2.- Crear la base de datos en MySQL
+3.- Abrir el navegador y poner la dirección en donde esta nuestro proyecto en este caso si es localhost seria "http://localhost/installer"
+4.- Seguimos los pasos de nuestro instalador
+5.- Al finalizar la instalacion nos dejara un lik para poner a prueba el nuevo sitio configurado
+Nota: solo es un demo en linux funciona perfectamente no he probado en windows :-), ademas de tener configurado su servidor para detectar urls amigables
